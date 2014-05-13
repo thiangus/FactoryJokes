@@ -1,0 +1,5 @@
+property.name A - O que dizem é A César o que é de César, a Deus o que é de Deus.
+property.name B - O que dizem é A amar e a rezar ninguém se pode obrigar.
+property.name C - O que dizem é A bom entendedor meia palavra basta.
+property.name D - O que dizem é A bom gato, bom rato.
+property.name E - O que dizem é A cavalo dado não se olham os dentes.

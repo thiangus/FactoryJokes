@@ -1,0 +1,5 @@
+property.name A - Batman pegou seu bat-blazer,aonde ele foi? - A um Bat-zado
+property.name B - Porque o elefante nao pega fogo? Porque ele ja e cinza 
+property.name C - Se o cachorro tivesse religiao, qual seria? Cao-domble
+property.name D - O que o cavalo foi fazer no orelhao? Passar um trote
+property.name E - O que da o cruzamento de pao, queijo e um macaco? X-panze
